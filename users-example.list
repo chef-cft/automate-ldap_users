@@ -1,0 +1,6 @@
+user1|admin,committer,reviewer,shipper,observer
+user2|committer,reviewer,shipper,observer
+user3|admin
+user4|admin
+user5|observer,shipper
+user6|reviewer
